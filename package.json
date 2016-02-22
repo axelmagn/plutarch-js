@@ -1,6 +1,6 @@
 {
   "name": "plutarch",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Microservice Configuration and Discovery on CouchDB",
   "main": "lib.js",
   "scripts": {
