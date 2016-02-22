@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/axelmagn/plutarch-js/issues"
   },
-  "homepage": "https://github.com/axelmagn/plutarch-js#readme"
+  "homepage": "https://github.com/axelmagn/plutarch-js#readme",
+  "dependencies": {
+    "nano": "^6.2.0"
+  }
 }
