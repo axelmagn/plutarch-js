@@ -1,0 +1,23 @@
+{
+  "name": "plutarch",
+  "version": "1.0.0",
+  "description": "Microservice Configuration and Discovery on CouchDB",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelmagn/plutarch-js.git"
+  },
+  "keywords": [
+    "config",
+    "discovery"
+  ],
+  "author": "Axel Magnuson <axelmagn@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/axelmagn/plutarch-js/issues"
+  },
+  "homepage": "https://github.com/axelmagn/plutarch-js#readme"
+}
